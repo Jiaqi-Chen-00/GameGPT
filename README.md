@@ -1,4 +1,4 @@
-# AcademicNexus
+# GameGPT
 
 **AcademicNexus** aims to build an intelligent academic search engine leveraging GPT-3.5-turbo. Our initial focus is on Arxiv, a popular repository for academic papers, due to its accessible API and easy-to-parse search results format.
 
