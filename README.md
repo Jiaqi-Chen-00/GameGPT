@@ -14,13 +14,13 @@
 
 1. Create virtual environment.
 ```
-conda create -n academic_nexus python=3.10
+conda create -n game_gpt python=3.10
 ```
 
 2. Clone the repository and install dependency.
 ```
-git clone git@github.com:prismleong/AcademicNexus.git
-cd AcademicNexus
+git clone git@github.com:prismleong/GameGPT.git
+cd GameGPT
 pip install -r requirements.txt
 ```
 
@@ -35,4 +35,4 @@ openai.api_key = "sk-..."
 streamlit run main.py
 ```
 
-5. paste the arxiv id and click search!
+5. start game!
