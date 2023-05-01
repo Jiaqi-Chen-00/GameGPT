@@ -1,13 +1,6 @@
 # GameGPT
 
-**AcademicNexus** aims to build an intelligent academic search engine leveraging GPT-3.5-turbo. Our initial focus is on Arxiv, a popular repository for academic papers, due to its accessible API and easy-to-parse search results format.
-
-
-## Features
-* Keyword extraction: GPT-3.5-turbo processes the title and abstract of the user-provided paper and extracts relevant keywords.
-* Arxiv search: The extracted keywords are used to search for related papers on Arxiv.
-* Paper ranking: GPT-3.5-turbo ranks the search results based on their titles and relevance to the user's query.
-* Summary generation: The top-ranked papers' abstracts are processed, and GPT-3.5-turbo generates a summary highlighting the relationships between the user's query paper and the related papers.
+GameGPT is a conversational entertainment robot that differs from most games, which are almost always based on specific game rules (such as Monopoly, Snakes and Ladders, Life Simulator, etc.). Instead, GameGPT provides an open-option, open-world gaming platform where users can choose their own path and have engaging interactive experiences in the game plot.
 
 ## Getting Started
 
